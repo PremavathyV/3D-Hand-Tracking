@@ -4,6 +4,7 @@
 ![C#](https://img.shields.io/badge/C%23-Expert-blue)
 ![Open Source](https://img.shields.io/badge/License-MIT-orange)
 
+
 **Author:** 𝓟𝓻𝓮𝓶𝓪 𝓥  
 **Email:** vprema376@gmail.com  
 **GitHub:** [github.com/PremavathyV](https://github.com/PremavathyV)  
@@ -73,6 +74,7 @@ ML-based gesture recognition
 📬 𝓒𝓸𝓷𝓽𝓪𝓬𝓽
 Reach out to Prema V at:
 📧 vprema376@gmail.com
+
 
 
 

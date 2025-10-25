@@ -21,6 +21,7 @@ Users can **interact with virtual objects** using their hands for immersive AR/V
 - 🎮 Gesture recognition for interactive actions  
 - ⚡ Lightweight and optimized for Unity  
 
+
 ---
 
 📥 𝓘𝓷𝓼𝓽𝓪𝓵𝓵𝓪𝓽𝓲𝓸𝓷
@@ -71,5 +72,6 @@ ML-based gesture recognition
 📬 𝓒𝓸𝓷𝓽𝓪𝓬𝓽
 Reach out to Prema V at:
 📧 vprema376@gmail.com
+
 
 
